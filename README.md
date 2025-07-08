@@ -1,2 +1,4 @@
 # learning-git
-This is my first repo
+This is my first rep
+<br>
+Author - Manshi Kumari
